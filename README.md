@@ -1,0 +1,2 @@
+# ML-Breast-Cancer-detection-Project
+Mammo-masses-Project: Predict whether a mammogram mass is benign or malignant.....Apply several different supervised machine learning techniques to this data set, and see which one yields the highest accuracy as measured with K-Fold cross validation (K=10). What we Apply:  Decision tree; Random forest; KNN; Naive Bayes; SVM; Logistic Regression; And, as a bonus challenge, a neural network using Keras.
